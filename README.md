@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Yehezkiel Darren Putra Wardoyo</h1>
 <h3 align="center">A Computer Science Student from Duta Wacana Christian University</h3>
 
