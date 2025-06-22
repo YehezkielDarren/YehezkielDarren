@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yehezkiel Darren Putra Wardoyo</h1>
 <h3 align="center">A Computer Science Student from Duta Wacana Christian University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yehezkieldarren" alt="yehezkieldarren" /></a> </p>
-
 - 🔭 I’m currently studying on **Backend Developement**
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB**
