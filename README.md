@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **darren.wardoyo@gmail.com**
 
-- 👨‍💻 All of my projects are available at [yehezkiel-darren.vercel.app](yehezkiel-darren.vercel.app)
+- 👨‍💻 All of my projects are available at [YehezkielDarren](YehzkielDarren)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
