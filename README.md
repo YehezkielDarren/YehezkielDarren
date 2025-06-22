@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **darren.wardoyo@gmail.com**
 
-- 👨‍💻 Visit my personal web page <a href="yehezkiel-darren.vercel.app></a>
+- 👨‍💻 Visit my personal web page <a href="yehezkiel-darren.vercel.app"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
